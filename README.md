@@ -1,2 +1,2 @@
 # CustomConsoleOutput
- A dll injected into process to control every line output to console as you want.
+ A dll injected into process to control every line of output to console as you want.
