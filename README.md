@@ -1,5 +1,5 @@
 # CustomConsoleOutput
- A dll injected into process to control every line of output to console as you want.
+### A dll injected into process to control every line of output to console as you want.
 
 You just need to modify Customize.cpp and recompile it to get the working dll.  
 
